@@ -1,4 +1,6 @@
-# **Business Intelligence: Integration Services & Reporting**
+# **CAP 2791C - Business Intelligence: Integration Services & Reporting**
+### Professor C. Marquez
+### Miami Dade College
 
 ## **Syllabus MENU**
 
@@ -15,16 +17,18 @@
 - [Coursework Requirements](#coursework-requirements)
 - [Grading](#grading)
 - [Miami Dade College Policies and Guidelines](#miami-dade-college-policies-and-guidelines)
+- [Additional Resources](#additional-resources)
+- [Syllabus Changes Policy](#syllabus-changes-policy)
 
 ---
 
 ## **Course Information**
 
-- **Course ID:**                  
-- **Class Number:**           
+- **Course ID:**              CAP 2791C:  Power BI - Data Preparation and Modeling   
+- **Class Number:**           7391
 - **Credit:**                       4 Credits
-- **Term:**                         Fall 2023
-- **Term Dates:**               8/21 to 10/13 
+- **Term:**                         Spring 2025
+- **Term Dates:**               1/6/2025 to 5/2/2025 
 
 [Jump to MENU](#syllabus-menu)
 
@@ -32,11 +36,11 @@
 
 ## **Instructor Information**
 
-- **Name:**                         Dr. Ernesto Lee
+- **Name:**                         Professor C. Marquez
 - **Inbox:**                          Please use "Inbox" in Canvas (Required communication tool with instructor)
-- **Email:**                          elee@mdc.edu (Use only if experiencing technical difficulties and cannot access the course)
-- **Phone:**                        305-237-2044
-- **Office Hours:**               Tuesdays and Thursdays: 5 PM to 6:30 PM EST or by appointment
+- **Email:**                          xxxx@mdc.edu (Use only if experiencing technical difficulties and cannot access the course)
+- **Phone:**                        305-237-2080
+- **Office Hours:**               Monday: 9:30 AM to 10:30 AM EST or by appointment
 - **Response Policy:**         24 hours Monday through Friday when the college is in session
 
 [Jump to MENU](#syllabus-menu)
@@ -181,18 +185,101 @@ The student will demonstrate the ability to:
 
 ## **Course Content**
 
-| **Module**                                | **Lesson**                                  | **Online Training**                              | **Deliverable**                                     | **Points** |
-|-------------------------------------------|--------------------------------------------|-------------------------------------------------|-----------------------------------------------------|-------------|
-| **Module 1:** Get Started with Microsoft Data Analytics | Lesson 1: Data Analytics and Microsoft<br>Lesson 2: Getting Started with Power BI | [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/) (1h 15m) | Screenshot of Quiz (5 Points each) <br>.pbix of classwork | 10         |
-| **Module 2:** Getting Data in Power BI    | Lesson 1: Data Analytics and Microsoft<br>Lesson 2: Optimize Performance<br>Lesson 3: Resolve Data Errors | [Prepare data for analysis](https://docs.microsoft.com/en-us/training/modules/prepare-data-power-bi/) (3h 30m) | Screenshot of Quiz & Lab (10 Points) <br>.pbix of group work/classwork (2 Points) | 10         |
-| **Module 3:** Cleaning, Transforming, and Loading Data in Power BI | Lesson 1: Shaping the Data<br>Lesson 2: Profiling the Data<br>Lesson 3: Enhance the data structure | [Prepare data for analysis](https://docs.microsoft.com/en-us/training/modules/prepare-data-power-bi/) (3h 30m) | Screenshot of Quiz & Lab (10 Points) <br>.pbix of group work/classwork (2 Points) | 10         |
-| **Module 4:** Design a Data Model in Power BI | Lesson 1: Introduction to data modeling<br>Lesson 2: Working with tables<br>Lesson 3: Dimensions and Hierarchies | [Model data in Power BI](https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/) (6h) | Screenshot of Quiz & Lab (10 Points) <br>.pbix of group work/classwork (2 Points) | 10         |
-| **Module 5:** Create Model Calculations using DAX in Power BI | Lesson 1: Introduction to DAX<br>Lesson 2: Real-time dashboards<br>Lesson 3: Advanced DAX | [Model data in Power BI](https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/) (6h) | Screenshot of Quiz & both Labs (10 Points) <br>.pbix of group work/classwork (2 Points) | 10         |
-| **Module 6:** Optimize Model Performance in Power BI | Lesson 1: Optimize the data model for performance<br>Lesson 2: Optimize DirectQuery Models | [Model data in Power BI](https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/) (6h) | Screenshot of Quiz & Mini Project (10 Points) <br>.pbix of group work/classwork (2 Points) | 10         |
-| **Module 7:** Create Reports in Power BI  | Lesson 1: Design a report<br>Lesson 2: Enhance the report | [Visualize data in Power BI](https://docs.microsoft.com/en-us/training/modules/visualize-data-power-bi/) (5h 50m) | Screenshot of Quiz & Lab (10 Points) <br>.pbix of group work/classwork (4 Points) | 20         |
-| **Module 8:** Create Dashboards in Power BI | Lesson 1: Create a Dashboard<br>Lesson 2: Real-time Dashboards<br>Lesson 3: Enhance a Dashboard | [Visualize data in Power BI](https://docs.microsoft.com/en-us/training/modules/visualize-data-power-bi/) (5h 50m) | Screenshot of Quiz & Lab (10 Points) <br>.pbix of group work/classwork (2 Points) | 10         |
-| **Final Project**                         |                                             |                                                 |                                                 | **100**    |
-| **Midterm**                               |                                             |                                                 |                                                 | **50**     |
+### **16-Week Course Content Outline**
+
+#### **Week 1:** Course Introduction & Univariate/Bivariate/Multivariate Analysis
+- Introduction to Business Intelligence
+- Types of Data Analysis
+  - Descriptive, Diagnostic, Predictive, Prescriptive, Cognitive
+- Univariate, Bivariate, and Multivariate Analysis (with examples and exercises)
+
+#### **Week 2:** Data Analysis and Power BI Overview
+- Roles in Data Analytics
+- Power BI Ecosystem: Desktop, Service, and Mobile
+- Introduction to Power BI Environment
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 3:** Getting Data in Power BI
+- Identifying and Connecting to Data Sources
+- Storage Modes: Import vs. DirectQuery
+- Resolving Data Import Errors
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 4:** Data Profiling and Querying
+- Data Profiling Options in Power Query
+- Query Performance and Optimization Techniques
+- Combining Data: Append and Merge Queries
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 5:** Cleaning, Transforming, and Loading Data
+- Resolving Data Quality Issues
+- Shaping and Transforming Data Tables
+- User-friendly Naming Conventions
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 6:** Designing a Semantic Model
+- Star Schema Design
+- Creating and Managing Relationships
+- Role-playing Dimensions and Hierarchies
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 7:** Introduction to DAX
+- DAX Syntax and Concepts
+- Calculated Columns, Measures, and Tables
+- Creating Quick Measures
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 8:** Advanced DAX and Time Intelligence
+- Time Intelligence Functions
+- Filter Context and CALCULATE Function
+- Semi-additive Measures
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 9:** Model Optimization
+- Using Variables in DAX for Optimization
+- Performance Analyzer in Power BI
+- Query Diagnostics
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 10:** Designing Reports
+- Power BI Report Structure and Best Practices
+- Choosing Effective Visualizations
+- Conditional Formatting and Tooltips
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 11:** Enhancing Reports for User Experience
+- Report Navigation and Filtering
+- Using Bookmarks, Buttons, and Drillthrough
+- Accessibility Features in Power BI
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 12:** Creating Dashboards
+- Difference between Reports and Dashboards
+- Pinning Visuals and Pages to Dashboards
+- Designing Mobile Layouts
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 13:** Advanced Analytics and AI Features
+- Using AI Insights and Key Influencers Visual
+- Clustering and Outlier Detection
+- What-If Parameters and Scenario Analysis
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 14:** Row-level Security and Workspaces
+- Configuring Static and Dynamic Row-level Security
+- Creating and Managing Workspaces
+- Publishing Reports and Assigning Roles
+- Deliverable (to be provided by the instructor). 10 points
+
+#### **Week 15:** Final Project Preparation
+- Guidelines for Final Project (Worth 100 Points)
+- Reviewing Key Concepts
+- Individual/Group Consultation
+
+#### **Week 16:** Final Project Presentation
+- Final Project Submission (Worth 100 Points)
+- Class Presentations (Worth 50 Points)
+- Peer Feedback and Instructor Evaluation
 
 [Jump to MENU](#syllabus-menu)
 
@@ -201,3 +288,24 @@ The student will demonstrate the ability to:
 ## **Miami Dade College Policies and Guidelines**
 
 **Refer to the official MDC Policies and Guidelines document for detailed information.**
+
+---
+
+## **Additional Resources**
+
+- **[MDC Kendall Entec](https://www.mdc.edu/kendall/entecdesign/):** Provides resources and support for engineering and technology students at Miami Dade College Kendall Campus.
+- **[MDC College Calendar](https://www.mdc.edu/academics/calendar/):** Stay updated on important dates, including registration deadlines and holidays.
+- **[MDC Access](https://www.mdc.edu/access/):** Offers support services for students with disabilities, ensuring accessibility and equal opportunity.
+- **[MDC Single Stop](https://www.mdc.edu/singlestop/):** A one-stop resource to help students with financial and personal challenges by connecting them to benefits and resources.
+- **[Canvas](https://mdc.instructure.com/):** Access course materials, assignments, and communication tools.
+- **[College Policies](https://www.mdc.edu/online/resources/policies.aspx):** Review the college's policies for online learning.
+
+[Jump to MENU](#syllabus-menu)
+
+---
+
+## **Syllabus Changes Policy**
+
+The professor reserves the right to make changes to this syllabus, including course content, schedule, and grading criteria. Any changes will be communicated to students in a timely manner through Canvas.
+
+[Jump to MENU](#syllabus-menu)
