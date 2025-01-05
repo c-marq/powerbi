@@ -1,6 +1,6 @@
-# **CAP 2791C - Business Intelligence: Integration Services & Reporting**
-### Professor C. Marquez
-### Miami Dade College
+# ![MDC Logo](https://www.universities.com/cache/school_logo/images/school/miami-dade-college-logo-14486.jpeg)
+
+# **Business Intelligence: Integration Services & Reporting**
 
 ## **Syllabus MENU**
 
@@ -19,6 +19,7 @@
 - [Miami Dade College Policies and Guidelines](#miami-dade-college-policies-and-guidelines)
 - [Additional Resources](#additional-resources)
 - [Syllabus Changes Policy](#syllabus-changes-policy)
+- [Course Policies](#course-policies)
 
 ---
 
@@ -29,6 +30,7 @@
 - **Credit:**                       4 Credits
 - **Term:**                         Spring 2025
 - **Term Dates:**               1/6/2025 to 5/2/2025 
+- **Room:**                        6355-01 Kendall Building 6
 
 [Jump to MENU](#syllabus-menu)
 
@@ -299,6 +301,8 @@ The student will demonstrate the ability to:
 - **[MDC Single Stop](https://www.mdc.edu/singlestop/):** A one-stop resource to help students with financial and personal challenges by connecting them to benefits and resources.
 - **[Canvas](https://mdc.instructure.com/):** Access course materials, assignments, and communication tools.
 - **[College Policies](https://www.mdc.edu/online/resources/policies.aspx):** Review the college's policies for online learning.
+- **[Kendall Campus Map 1](https://www.mdc.edu/kendall/img/map-kendall-int.jpg):** Detailed map of the Kendall Campus.
+- **[Kendall Campus Map 2](http://www.mappery.com/maps/Miami-Dade-College-Kendall-campus-Map.jpg):** Another map view of the Kendall Campus.
 
 [Jump to MENU](#syllabus-menu)
 
@@ -307,5 +311,50 @@ The student will demonstrate the ability to:
 ## **Syllabus Changes Policy**
 
 The professor reserves the right to make changes to this syllabus, including course content, schedule, and grading criteria. Any changes will be communicated to students in a timely manner through Canvas.
+
+[Jump to MENU](#syllabus-menu)
+
+---
+
+## **Course Policies**
+
+### **Late Work Policy**
+- A 10% deduction will be applied for each calendar day an assignment is late.
+- After 4 days, the assignment will receive a score of 0.
+- Each assignment is due on Sunday of the assigned week by 11:59 PM EST (e.g., if assigned on a Wednesday, it is due the following Sunday).
+
+### **Attendance Policy**
+- Attendance is mandatory.
+- Authorized absences (based on MDC policies) are permitted, but students are responsible for making up any missed work.
+- Attendance accounts for 10% of the final grade.
+
+### **Classroom Etiquette Policy**
+- Respectful behavior is expected at all times.
+- Disruptive behavior, including the use of mobile devices during class for non-academic purposes, is not allowed.
+- Active listening and respectful participation in discussions are required.
+
+### **Classroom Participation Policy**
+- Participation is critical to the learning process.
+- Students are expected to contribute to class discussions and group activities.
+- Failure to participate may negatively impact the final grade.
+
+---
+
+## **Grading Scale**
+
+### **Point Distribution**
+- **Weekly Assignments:** 130 Points
+- **Final Presentation:** 50 Points
+- **Final Project:** 100 Points
+- **Total:** 280 Points
+
+### **Grade Scale**
+| **Grade** | **Percentage** | **Points** |
+|-----------|----------------|------------|
+| **A**     | 90% – 100%     | 252 – 280  |
+| **B**     | 80% – 89%      | 224 – 251  |
+| **C**     | 70% – 79%      | 196 – 223  |
+| **D**     | 60% – 69%      | 168 – 195  |
+| **F**     | Below 60%      | Below 168  |
 
 [Jump to MENU](#syllabus-menu)
