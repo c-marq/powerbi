@@ -70,7 +70,7 @@ This course is designed for individuals who develop reports that visualize data 
 
 ---
 
-## **Miami Dade College's Learning Outcomes**
+## **MDC Learning Outcomes**
 
 This course addresses the following MDC learning outcomes:
 
@@ -340,7 +340,7 @@ The professor reserves the right to make changes to this syllabus, including cou
 
 ---
 
-## **Grading Scale**
+## **Grading**
 
 ### **Point Distribution**
 - **Weekly Assignments:** 130 Points
