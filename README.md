@@ -169,7 +169,7 @@ The student will demonstrate the ability to:
 
 ---
 
-## **Supplemental Textbook and/or Materials**
+## **Supplemental Materials**
 
 - [PL-300 Certification Learning Paths](https://docs.microsoft.com/en-us/certifications/exams/pl-300?tab=tab-learning-paths)
 
