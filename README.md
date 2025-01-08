@@ -289,7 +289,60 @@ The student will demonstrate the ability to:
 
 ## **Miami Dade College Policies and Guidelines**
 
-**Refer to the official MDC Policies and Guidelines document for detailed information.**
+### **Students' Rights and Responsibility Handbook**
+
+This handbook provides you with the basic information you need to know as a student at Miami Dade College. Please review the Students' Rights and Responsibilities site to learn about policies addressing code of conduct, grade appeals, religious observations, services for students with special needs, and many other areas.
+
+---
+
+### **Academic Dishonesty**
+
+Please carefully review the Academic Dishonesty policies in the Students' Rights and Responsibilities site.
+
+This site identifies "cheating on an examination" as one action included under academic dishonesty. In this course, you are expected to complete quizzes and exams independently and without access to the course's online content or your own study notes. Having multiple browser windows open, accessing previous quizzes or course readings, and using your course notes while taking a quiz or exam constitute cheating. The Canvas system records all course activities. Activity logs when you are taking quizzes/exams that show access to other course components makeup evidence of cheating and may cause a failing grade for the corresponding quiz or exam.
+
+You may have access to content in completed quizzes/exams. Copying, photographing, or any form of duplicating content in any assessment violates the integrity of the assessment. Such action will be viewed as academic dishonesty and may result in a failing grade for the corresponding quiz or exam.
+
+Plagiarism is another action identified as academic dishonesty. Presenting the work or ideas of someone else as one's own constitutes plagiarism, which is why students are always expected to cite their sources. Through the use of tools such as Turnitin, non-original work can be easily identified; if not sourced, this constitutes evidence of plagiarism and may result in a failing grade for the corresponding assignment.
+
+---
+
+### **Course Withdrawal**
+
+After registering, students may change their schedules during the drop/add period. The dates for this period are listed on the Academic Calendar that may be found as a link on the Miami Dade College homepage.
+
+---
+
+### **Incomplete Grades**
+
+An Incomplete is given only where extenuating circumstances exist, such as documented medical problems or a death in the family, and is issued solely at the discretion of the instructor. If the instructor agrees to grant an Incomplete, a written agreement must be completed between the instructor and the student, specifying the coursework to be completed, in what manner, and by when. Failure to fulfill the terms of the contract by the end of the next major term will result in an "F" for the course. A student may not remove an Incomplete by registering in a subsequent term to re-take the course.
+
+For more information on Incomplete grades, please refer to the Students' Rights and Responsibilities.
+
+---
+
+### **Class Activities - Recorded**
+
+Class lectures may be recorded and made available to students enrolled in the same class. Students who do not wish to be recorded, please contact the class instructor in the first week of class to discuss alternative arrangements.
+
+---
+
+### **Adding Photo to Your Canvas Profile**
+
+Students are highly encouraged to use photos taken within five years to reflect their current appearance when assigning their Canvas profile picture.
+
+- The photo should be a colored JPEG file with proper brightness, contrast, and exposure.
+- The background should not contain distracting objects.
+- It would be best to be the only subject in the photo with no other people in the focus or the background.
+- Photos should not include captions, watermarks, or image-distorting overlays and filters.
+- Students may be held accountable for posting offensive pictures or containing inappropriate content or images.
+- If the Canvas profile picture does not comply with these guidelines, Miami Dade College, course instructors, and LMS administrators have the right to remove profile pictures.
+
+---
+
+### **Hurricane and Other Natural Disasters**
+
+In the event of a hurricane or other disaster, the class follows the schedule established by the College for campus-based courses. Please visit the MDC website or call the MDC Hotline (305-237-7500) for situation updates.
 
 ---
 
